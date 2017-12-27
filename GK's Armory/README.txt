@@ -1,0 +1,1 @@
+Added ItemCombatData.xml to GK's Armory Mod.
